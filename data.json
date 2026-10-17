@@ -1,0 +1,34 @@
+[
+    {
+        "name": "neer",
+        "age": 24,
+        "email": "neer@gmail.com",
+        "pin": 1234,
+        "account number": 1234,
+        "balance": 0
+    },
+    {
+        "name": "prerana",
+        "age": 22,
+        "email": "prerana0720@gmail.com",
+        "pin": 2030,
+        "account number": 1234,
+        "balance": 0
+    },
+    {
+        "name": "mini",
+        "age": 20,
+        "email": "mini@gmail.com",
+        "pin": 1023,
+        "account number": 1234,
+        "balance": 0
+    },
+    {
+        "name": "ram das",
+        "age": 25,
+        "email": "ram@gmail.com",
+        "pin": 6789,
+        "account number": "n3s9%7c",
+        "balance": 0
+    }
+]
